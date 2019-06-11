@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168891031052",
+    "firebase_url": "https://webproject-29b89.firebaseio.com",
+    "project_id": "webproject-29b89",
+    "storage_bucket": "webproject-29b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168891031052:android:4975641ac8a57795",
+        "android_client_info": {
+          "package_name": "com.example.rabia.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168891031052-air5nderpqkh0jdjb9paeq2sasqqt3io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rabia.phoneauthentication",
+            "certificate_hash": "cd453d3a16c3cf9ff8391005cf841f00cd81d0be"
+          }
+        },
+        {
+          "client_id": "168891031052-h16t6eqb6mefslj2ciahvc3ta3shd8d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZoQmyjkk4c7dyrRHDXZ8IFMzoCgIZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168891031052-h16t6eqb6mefslj2ciahvc3ta3shd8d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
